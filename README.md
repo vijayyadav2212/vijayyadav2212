@@ -1,5 +1,5 @@
 <div align="center">
-
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/d7b2bdc3-72dc-4875-9bf2-079f0a643cce" />
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hey!+Vijay+Yadav+here...;Software+Engineer;Building+the+Future..." alt="Typing SVG" /></a> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=40&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=100&lines=Hey!+Vijay+Yadav+here...;Software+Engineer;Building+the+Future..." alt="Typing SVG" /></a>
 
@@ -21,18 +21,25 @@ workflows, and scalable application development.</div>
 
 ## 💫 About Me
 
-Software Engineer with experience in **Full-Stack Web Development** using **TypeScript, Next.js, Node.js**, and **Flutter**.
+Software Engineer with experience in Full-Stack Web Development using TypeScript, Next.js, Node.js, and Flutter.
 
-- 💻 Building scalable web & mobile applications
-- 🌱 Currently learning System Design & DSA
-- 🚀 Solved 300+ LeetCode problems
-- 🤖 Interested in AI & Machine Learning
+💻 Building scalable web & mobile applications  
+🌱 Currently learning System Design & DSA  
+🚀 Solved 300+ LeetCode problems  
+🤖 Interested in AI & Machine Learning  
+🏆 Built real-world projects used by hundreds of students and alumni  
+⚡ Strong foundation in Data Structures, Algorithms, and OOP  
+🔍 Passionate about writing clean, maintainable, and efficient code  
+📚 Always learning new technologies and best development practices
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding Animation"/>
+<!-- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding Animation"/> -->
+<!-- <img width="100%" height="400" alt="Image" src="https://github.com/user-attachments/assets/11695439-e62e-44a9-86a0-0353d363f14a" /> -->
+<!-- <img width="100%" height="405" alt="Image" src="https://github.com/user-attachments/assets/965492f8-8d20-4a01-9964-189d43b1d727" /> -->
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/c3579b16-fcce-4628-8cbc-8eba6f99d5d5" />
 
 </td>
 </tr>
@@ -40,7 +47,7 @@ Software Engineer with experience in **Full-Stack Web Development** using **Type
 
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ttGXbZCUeP?theme=catppuccinMocha&font=Viga&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ttGXbZCUeP?theme=nord&font=Viga&colors=%2308192D%2C%2300B8A3%2C%23FFC01E%2C%23FF375F%2C%2336BCF7%2C%237C4DFf)
 
 
 <br/>
