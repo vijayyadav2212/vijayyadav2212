@@ -1,14 +1,57 @@
 <div align="center">
 
-# 👋 Hi, I'm VIJAY YADAV
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hey!+Vijay+Yadav+here...;Software+Engineer;Building+the+Future..." alt="Typing SVG" /></a> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=40&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=100&lines=Hey!+Vijay+Yadav+here...;Software+Engineer;Building+the+Future..." alt="Typing SVG" /></a>
 
-<p>Building scalable web applications, modern APIs, and high-performance user experiences.</p>
 
+
+<!-- <div align="center" width="100%">
+<div align="center" width="40%">Software Engineer with experience in full-stack web development (Typescript, Next.js,
+Node.js) and Flutter. Proficient in Python, REST APIs, and machine learning. Familiar with Git, Agile
+workflows, and scalable application development.</div>
+
+<div width="50%">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
 </div>
+</div> -->
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 💫 About Me
+
+Software Engineer with experience in **Full-Stack Web Development** using **TypeScript, Next.js, Node.js**, and **Flutter**.
+
+- 💻 Building scalable web & mobile applications
+- 🌱 Currently learning System Design & DSA
+- 🚀 Solved 300+ LeetCode problems
+- 🤖 Interested in AI & Machine Learning
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ttGXbZCUeP?theme=catppuccinMocha&font=Viga&ext=heatmap)
 
 
+<br/>
+
+<!-- <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</p> -->
 <!-- <div align="center">
 ## 👾 Pacman Contribution Graph
   <picture>
@@ -227,7 +270,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🌐 Connect With Me
 
@@ -257,7 +300,7 @@
 
 </div>
 
----
+<br/>
 
 
 <!-- <div align="center">
