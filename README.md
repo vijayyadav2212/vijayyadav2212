@@ -283,7 +283,7 @@ Software Engineer with experience in Full-Stack Web Development using TypeScript
 <div align="center">
 
 <a href="https://github.com/vijayyadav2212" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="36" height="36" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="36" height="36" title="GitHub" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/vijay0411" target="_blank" rel="noopener noreferrer">
@@ -293,7 +293,7 @@ Software Engineer with experience in Full-Stack Web Development using TypeScript
 <a href="https://leetcode.com/u/ttGXbZCUeP" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/leetcode/ffffff" />
-    <img src="https://cdn.simpleicons.org/leetcode/000000" alt="LeetCode" width="36" height="36" title="LeetCode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="36" height="36" title="LeetCode" />
   </picture>
 </a>
 &nbsp;
