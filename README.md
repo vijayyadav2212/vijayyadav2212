@@ -47,8 +47,7 @@ Software Engineer with experience in Full-Stack Web Development using TypeScript
 
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ttGXbZCUeP?theme=nord&font=Viga&colors=%2308192D%2C%2300B8A3%2C%23FFC01E%2C%23FF375F%2C%2336BCF7%2C%237C4DFf)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/ttGXbZCUeP?theme=dark&font=Viga&colors=%2308192D%2C%2300B8A3%2C%23F8FAFC%2C%23FF375F%2C%23FFA116%2C%23FFA116&ext=heatmap)
 
 <br/>
 
