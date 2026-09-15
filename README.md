@@ -25,7 +25,7 @@ Software Engineer with experience in Full-Stack Web Development using TypeScript
 
 💻 Building scalable web & mobile applications  
 🌱 Currently learning System Design & DSA  
-🚀 Solved 300+ LeetCode problems  
+🚀 Solved 400+ LeetCode problems  
 🤖 Interested in AI & Machine Learning  
 🏆 Built real-world projects used by hundreds of students and alumni  
 ⚡ Strong foundation in Data Structures, Algorithms, and OOP  
